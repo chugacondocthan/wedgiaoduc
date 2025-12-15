@@ -1,0 +1,253 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_21_3" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_21_3_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_21_3_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_21_3_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_28_3" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_28_3_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_28_3_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_28_3_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_Character" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_DrawPath" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_DrawPath_Circle" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_NotificationResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_PanelDraw_Pencil" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_PanelDraw_PencilSelection" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_RoadPoint" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_RoadSection" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_RoadSection_Point" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_79_5" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_79_5_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_79_5_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_79_5_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_79_5_Tile_Answer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_79_5_Tile_Answer_Virtual" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_79_5_Tile_Question" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_79_5_Tile_Question_EffectDragDropAnswer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_79_5_Tile_Question_EffectResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_1_50_2" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_1_50_2_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_1_50_2_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_1_50_2_GroupTileLineConnect" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_1_50_2_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_1_50_2_TileAnswer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_1_50_2_TileLineConnect" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_1_50_2_TileQuestion" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_DisplayMission" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_GameField_CirclePainter" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_GameField_CirclePainterEntry" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_GameField_PoolCirclePainter" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_GameField_TileRoad" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_GameField_TypeRoad" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_GameField_TypeRoad_GroupPointCheck" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_GameField_TypeRoad_Physic" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_GameField_TypeRoad_PointStart" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_Input" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_ToolPens" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_47_1" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_47_1_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_47_1_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_47_1_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_47_1_Tile_Answer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_47_1_Tile_Answer_Virtual" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_47_1_Tile_Question" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_47_1_Tile_Question_EffectDragDropAnswer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_47_1_Tile_Question_EffectResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_64_2" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_64_2_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_64_2_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_64_2_GroupTileLineConnect" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_64_2_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_64_2_TileAnswer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_64_2_TileLineConnect" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_64_2_TileQuestion" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_Connect" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_Connect_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_Connect_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_Connect_GroupTileLineConnect" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_Connect_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_Connect_TileAnswer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_Connect_TileLineConnect" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_Connect_TileQuestion" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_18_3" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_18_3_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_18_3_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_18_3_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_18_3_Tile_Answer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_18_3_Tile_Answer_Virtual" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_18_3_Tile_Question" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_18_3_Tile_Question_EffectDragDropAnswer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_18_3_Tile_Question_EffectResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_48_1" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_48_1_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_48_1_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_48_1_GroupTileLineConnect" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_48_1_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_48_1_TileAnswer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_48_1_TileLineConnect" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_48_1_TileQuestion" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_56_4" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_56_4_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_56_4_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_56_4_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_56_4_TileFloor" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_56_4_TileItems" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_71_4" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_71_4_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_71_4_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_71_4_GameField_AreaItems" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_71_4_GameField_AreaItemsStatic" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_71_4_GameField_AreaItemsVirtual" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_71_4_GameField_ItemsDrag" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_71_4_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_Character" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_DrawPath" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_DrawPath_Circle" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_NotificationResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_PanelDraw_Pencil" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_PanelDraw_PencilSelection" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_RoadPoint" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_RoadSection" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_RoadSection_Point" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_42_1" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_42_1_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_42_1_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_42_1_GroupTileLineConnect" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_42_1_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_42_1_TileAnswer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_42_1_TileLineConnect" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_42_1_TileQuestion" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_56_3" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_56_3_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_56_3_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_56_3_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_AnswerInputText" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_AnswerInputText_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_AnswerInputText_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_AnswerInputText_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_ChooseAnswerTrue_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_Classify" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_Classify_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_Classify_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_Classify_GameField_AreaItems" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_Classify_GameField_AreaItemsStatic" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_Classify_GameField_AreaItemsVirtual" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_Classify_GameField_ItemsDrag" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_Classify_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_DragDrop" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_DragDrop_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_DragDrop_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_DragDrop_Notification" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_DragDrop_Tile_Answer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_DragDrop_Tile_Answer_Virtual" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_DragDrop_Tile_Question" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_DragDrop_Tile_Question_EffectDragDropAnswer" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_DragDrop_Tile_Question_EffectResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_PlayExercise_Game_ChooseAnswerTrue" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_PlayExercise_Game_ChooseAnswerTrue_ButtonResult" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_PlayExercise_Game_ChooseAnswerTrue_Choose" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_PlayExercise_Game_ChooseAnswerTrue_GameField" preserve="all" />
+    <type fullname="BookStore.Textbook.Textbook_Dataset_Book" preserve="all" />
+    <type fullname="BookStore.Textbook.Textbook_Dataset_Game_Audio" preserve="all" />
+    <type fullname="BookStore.Textbook.Textbook_Dataset_Game_Game" preserve="all" />
+    <type fullname="BookStore.Textbook.Textbook_Dataset_Game_Image" preserve="all" />
+    <type fullname="BookStore.Textbook.Textbook_Dataset_Game_Video" preserve="all" />
+    <type fullname="BookStore.Textbook.Textbook_Dataset_Page" preserve="all" />
+    <type fullname="BookStore.Textbook.Textbook_Dataset_TabbeOfContents" preserve="all" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_21_3_GameField/DataAnswer" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_28_3_GameField/DataAnswer" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_GameField/RoadSection" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_GameField/TypeColor" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_PanelDraw_Pencil/DatasetPencil" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_31_2_PanelDraw_PencilSelection/DatasetPencil" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_79_5_GameField/DataAnswerQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_1.UITextbook_Exercise_Game_CDS_1_79_5_GameField/DatasetQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_1_50_2_GameField/DataAnswerQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_GameField_TypeRoad/ResTileRoad" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_12_3_ToolPens/DataPen" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_47_1_GameField/DataAnswerQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_47_1_GameField/DatasetQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_CDS_2_64_2_GameField/DataAnswerQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_2.UITextbook_Exercise_Game_Connect_GameField/DataAnswerQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_18_3_GameField/DataAnswerQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_18_3_GameField/DatasetQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_48_1_GameField/DataAnswerQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_56_4_GameField/DataAnswerQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_3.UITextbook_Exercise_Game_CDS_3_56_4_GameField/DatasetQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_71_4_GameField/AnswerTrue" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_GameField/RoadSection" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_GameField/TypeColor" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_4.UITextbook_Exercise_Game_CDS_4_8_2_PanelDraw_PencilSelection/DatasetPencil" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_42_1_GameField/DataAnswerQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.CDS_5.UITextbook_Exercise_Game_CDS_5_56_3_GameField/DataAnswer" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_AnswerInputText_GameField/DataAnswer" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_Classify_GameField/AnswerTrue" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_DragDrop_GameField/DataAnswerQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Game.UITextbook_Exercise_Game_DragDrop_GameField/DatasetQuestion" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Textbook_Dataset_Page_Exercise" preserve="nothing" serialized="true" />
+    <type fullname="BookStore.Textbook.Textbook_Dataset_TabbeOfContents/DatasetIndexContent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+    <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
+    <type fullname="UnityEngine.PolygonCollider2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Video.VideoClip" preserve="all" />
+  </assembly>
+</linker>
